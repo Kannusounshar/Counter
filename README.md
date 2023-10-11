@@ -1,4 +1,6 @@
-Colour Flipper
+Counter:
+
+A counter is essentially a variable that keeps track of a numerical value. In JavaScript, we can create a variable using the ‘var’, ‘let’, or ‘const’ keywords. We will be using the ‘let’ keyword to create our counter variable, which can be incremented or decremented based on user actions.
 
 Buildwith
 -HTML
